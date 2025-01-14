@@ -63,7 +63,7 @@ Creating users can be done manually or through the use of a script. For this lab
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/6b0d41b3-cc34-42e4-a707-843f87279636)
+![image](https://github.com/user-attachments/assets/aed7e5f3-2f3d-499d-8d4d-a1765b5b1325)
 
 <p>
 After creating the users, Client-1 can now be signed in as one of the new users that were created from the PowerShell script. Pick a name and simply sign in to the client with the context of the domain. In my case, it is bon.rovej.
